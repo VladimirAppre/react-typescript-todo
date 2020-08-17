@@ -1,0 +1,9 @@
+export const SHOW_ALERT: string = 'SHOW_ALERT';
+export const HIDE_ALERT: string = 'HIDE_ALERT';
+export const SET_LOADING: string = 'SET_LOADING';
+export const UNSET_LOADING: string = 'UNSET_LOADING';
+export const ADD_CARD: string = 'ADD_CARD';
+export const DELETE_CARD: string = 'DELETE_CARD';
+export const EDIT_STATUS_CARD: string = 'EDIT_STATUS_CARD';
+export const SAVE_EDIT_CARD: string = 'SAVE_EDIT_CARD';
+export const INITIAL_REDUX_CARD = 'INITIAL_REDUX_CARD';
